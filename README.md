@@ -28,7 +28,7 @@
 
 ## 📌 Featured Projects
 🚀 [**WeaveNest** - Handloom Saree E-Commerce Platform](https://github.com/barathit/weavenest)  
-🌐 [**Interview Experience Platform** (React + Node + MongoDB)](https://github.com/barathit/interview-experience)  
+🌐 [**Interview Experience Platform** (EJS + Node + MongoDB)](https://github.com/barathit/interview-experience)  
 📲 [**College-Centric Food Ordering Website**](https://github.com/barathit/college-food-ordering)  
 
 ## 📬 Connect with Me
