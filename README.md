@@ -14,7 +14,7 @@
 - 💡 Love building innovative projects & solving DSA problems  
 
 ## 🛠️ Tech Stack
-- **Languages:** C, C++, JavaScript, TypeScript, SQL, Golang  
+- **Languages:** C, C++, Java, JavaScript, SQL, Golang  
 - **Frontend:** HTML, CSS, Bootstrap, React.js  
 - **Backend:** Node.js, Express.js, MongoDB  
 - **Mobile Development:** Flutter, React Native  
